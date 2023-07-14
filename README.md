@@ -8,10 +8,10 @@
 
 ### Setteo de temperaturas funcional
 
-![Setteo de temperaturas](https://github.com/matiasdtorres/RECU-2-SPD/blob/fadcf87b728d5b2968905f6cd988bb7e0d3b8ed4/imagen_2023-05-18_121209060.png)
+![Setteo de temperaturas](https://github.com/matiasdtorres/RECU-1-SPD/blob/15aa85c6d0809d7b3a47be942728f049123f23d9/DIV%20K-1.png)
 ### 🦴Modelo esquematico del Display de temperaturas
 
-![Setteo de temperaturas](https://github.com/matiasdtorres/RECU-2-SPD/blob/fadcf87b728d5b2968905f6cd988bb7e0d3b8ed4/RECU-2DO%20PARCIAL.png)
+![Setteo de temperaturas](https://github.com/matiasdtorres/RECU-1-SPD/blob/15aa85c6d0809d7b3a47be942728f049123f23d9/RPP%20DIV%20K-1.png)
 
 ## 📄Consigna Setteo de temperaturas:
 Se quiere manejar el señalar el nivel de temperatura con 
@@ -395,7 +395,7 @@ Los pines A, B, C, D, E, F y G representan los segmentos del display de 7 segmen
 
 ### 📄Parcial:
 
-- [Enunciado](https://github.com/matiasdtorres/RECU-2-SPD/blob/fadcf87b728d5b2968905f6cd988bb7e0d3b8ed4/Enunciado.pdf)
+- [Enunciado](https://github.com/matiasdtorres/RECU-1-SPD/blob/768982a5105fca9087b38c70a7236362882e162d/Enunciado.pdf)
 
 ### 📄Fuentes
 
